@@ -67,9 +67,11 @@ Target Variable: Exited
 
 - Germany has the highest churn rate.
 - Customers aged 40-60 are more likely to churn.
+- Female customers showed a higher churn rate.
+- Customers with higher balances were more likely to leave.
+- Customers with only one product had higher churn rates.
 - Inactive members have significantly higher churn.
 - Balance and age are important churn indicators.
-- Long-term customers show lower churn rates.
 
 ## Results
 
@@ -77,6 +79,23 @@ Best Model: Random Forest
 
 Accuracy: 86%
 ROC-AUC Score: 85%
+
+## Business Recommendations
+
+Based on the analysis, a company could:
+
+- Target high-risk customers with retention campaigns.
+- Increase engagement of inactive customers.
+- Offer personalized benefits to older customers.
+- Promote additional products to customers with only one product
+- Focus retention efforts on regions with high churn.
+
+## Business Impact
+
+- Improve customer retention.
+- Reduce revenue loss from customer churn.
+- Increase customer engagement and loyalty.
+- Support data-driven decision-making.
 
 ## Author
 
